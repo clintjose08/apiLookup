@@ -1,0 +1,3 @@
+wordsArray.forEach(function (key) {
+
+ })
